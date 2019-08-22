@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "semantic-ui-css@git+https://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+        "scope": null,
+        "escapedName": "semantic-ui-css",
+        "name": "semantic-ui-css",
+        "rawSpec": "git+https://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+        "spec": "git+https://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+          "sshUrl": "git+ssh://git@github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+          "httpsUrl": "git+https://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+          "gitUrl": "git://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+          "shortcut": "github:Jeff-Tian/Semantic-UI-CSS#noGoogle",
+          "directUrl": "https://raw.githubusercontent.com/Jeff-Tian/Semantic-UI-CSS/noGoogle/package.json"
+        }
+      },
+      "/var/lib/jenkins/workspace/v/client"
+    ]
+  ],
+  "_from": "git+https://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+  "_id": "semantic-ui-css@2.2.13",
+  "_inCache": true,
+  "_location": "/semantic-ui-css",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "semantic-ui-css@git+https://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+    "scope": null,
+    "escapedName": "semantic-ui-css",
+    "name": "semantic-ui-css",
+    "rawSpec": "git+https://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+    "spec": "git+https://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+      "sshUrl": "git+ssh://git@github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+      "httpsUrl": "git+https://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+      "gitUrl": "git://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+      "shortcut": "github:Jeff-Tian/Semantic-UI-CSS#noGoogle",
+      "directUrl": "https://raw.githubusercontent.com/Jeff-Tian/Semantic-UI-CSS/noGoogle/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/Jeff-Tian/Semantic-UI-CSS.git#d26da29d799563ccb9cf365973a1b9f0f0583c8b",
+  "_shasum": "b6522c4a375b5cf2944011f56800f0a4b7017cb7",
+  "_shrinkwrap": null,
+  "_spec": "semantic-ui-css@git+https://github.com/Jeff-Tian/Semantic-UI-CSS.git#noGoogle",
+  "_where": "/var/lib/jenkins/workspace/v/client",
+  "author": {
+    "name": "Jack Lukic",
+    "email": "jack@semantic-ui.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
+  },
+  "dependencies": {
+    "jquery": "x.*"
+  },
+  "description": "CSS Only distribution of Semantic UI",
+  "devDependencies": {},
+  "gitHead": "d26da29d799563ccb9cf365973a1b9f0f0583c8b",
+  "homepage": "http://www.semantic-ui.com",
+  "license": "MIT",
+  "main": "semantic.js",
+  "name": "semantic-ui-css",
+  "optionalDependencies": {},
+  "readme": "# CSS  Distribution\n\nThis repository is automatically synced with the main [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) repository to provide lightweight CSS only version of Semantic UI.\n\nThis package **does not support theming** and includes generated CSS files of the default theme only.\n\nYou can view more on Semantic UI at [LearnSemantic.com](http://www.learnsemantic.com) and [Semantic-UI.com](http://www.semantic-ui.com)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Semantic-Org/Semantic-UI-CSS.git"
+  },
+  "title": "Semantic UI",
+  "version": "2.2.13"
+}
